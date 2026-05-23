@@ -1,2 +1,2 @@
-# Programa-oC
+# Programação C
 Trabalho faculdade
